@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CapitalQuestion
+comment1.params=stateName\ allStates
+comment1.target=CapitalQuestion(java.lang.String,\ java.util.List)
+comment2.params=
+comment2.target=void\ generateChoices()
+comment3.params=
+comment3.target=java.lang.String\ getQuestionType()
+comment4.params=
+comment4.target=greenfoot.Color\ getDisplayColor()
+comment5.params=capital
+comment5.target=java.lang.String\ getStateFromCapital(java.lang.String)
+comment6.params=
+comment6.target=java.util.Map\ createCapitalsMap()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LabeledOrb
+comment1.params=stateName\ isCorrect\ displayText
+comment1.target=LabeledOrb(java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=void\ createLabeledImage()
+comment3.params=
+comment3.target=java.lang.String\ getDisplayText()
+numComments=4

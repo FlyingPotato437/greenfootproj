@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StateMarker
+comment1.params=name
+comment1.target=StateMarker(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getStateName()
+comment3.params=
+comment3.target=void\ collect()
+numComments=4

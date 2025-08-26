@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RegionQuestion
+comment1.params=stateName\ allStates
+comment1.target=RegionQuestion(java.lang.String,\ java.util.List)
+comment2.params=
+comment2.target=void\ generateChoices()
+comment3.params=
+comment3.target=java.lang.String\ getQuestionType()
+comment4.params=
+comment4.target=greenfoot.Color\ getDisplayColor()
+comment5.params=
+comment5.target=java.util.Map\ createRegionsMap()
+numComments=6

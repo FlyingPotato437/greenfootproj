@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GeographyFacts
+comment1.params=stateName
+comment1.target=java.lang.String\ getStateFact(java.lang.String)
+comment2.params=stateName
+comment2.target=java.lang.String\ getCapitalHint(java.lang.String)
+comment3.params=stateName
+comment3.target=java.lang.String\ getLocationClue(java.lang.String)
+comment4.params=
+comment4.target=java.util.Map\ createStateFacts()
+comment5.params=
+comment5.target=java.util.Map\ createCapitalHints()
+comment6.params=
+comment6.target=java.util.Map\ createLocationClues()
+comment7.params=regionName
+comment7.target=java.lang.String\ getRegionHint(java.lang.String)
+numComments=8

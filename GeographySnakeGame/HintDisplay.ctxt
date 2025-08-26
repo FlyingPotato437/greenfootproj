@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HintDisplay
+comment1.params=
+comment1.target=HintDisplay()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=hint\ duration
+comment3.target=void\ showHint(java.lang.String,\ int)
+comment4.params=question
+comment4.target=void\ showEducationalHint(Question)
+comment5.params=stateName
+comment5.target=void\ showQuickFact(java.lang.String)
+comment6.params=
+comment6.target=void\ hideHint()
+comment7.params=
+comment7.target=void\ updateDisplay()
+numComments=8

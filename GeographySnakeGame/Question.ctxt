@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Question
+comment1.params=questionText\ correctAnswer\ points
+comment1.target=Question(java.lang.String,\ java.lang.String,\ int)
+comment10.params=choice
+comment10.target=void\ addChoice(java.lang.String)
+comment11.params=
+comment11.target=void\ shuffleChoices()
+comment2.params=
+comment2.target=void\ generateChoices()
+comment3.params=
+comment3.target=java.lang.String\ getQuestionType()
+comment4.params=
+comment4.target=greenfoot.Color\ getDisplayColor()
+comment5.params=
+comment5.target=java.lang.String\ getQuestionText()
+comment6.params=answer
+comment6.target=boolean\ isCorrect(java.lang.String)
+comment7.params=
+comment7.target=int\ getPoints()
+comment8.params=
+comment8.target=java.util.List\ getChoices()
+comment9.params=
+comment9.target=java.lang.String\ getCorrectAnswer()
+numComments=12

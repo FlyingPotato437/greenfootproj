@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AdvancedLevel
+comment1.params=
+comment1.target=AdvancedLevel()
+comment2.params=
+comment2.target=void\ initializeStates()
+comment3.params=remainingStates
+comment3.target=Question\ generateQuestion(java.util.List)
+comment4.params=
+comment4.target=int\ getMaxLives()
+comment5.params=
+comment5.target=java.lang.String\ getLevelDescription()
+numComments=6
